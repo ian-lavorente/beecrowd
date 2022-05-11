@@ -1,3 +1,5 @@
+// Área
+
 #include <stdio.h>
 
 int main()
@@ -5,7 +7,6 @@ int main()
 	double A, B, C;
 
 	scanf("%lf %lf %lf", &A, &B, &C);
-
 	printf("TRIANGULO: %.3lf\n", (A * C) / 2);
 	printf("CIRCULO: %.3lf\n", 3.14159 * C * C);
 	printf("TRAPEZIO: %.3lf\n", ((A + B) * C) / 2);

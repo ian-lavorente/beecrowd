@@ -1,3 +1,5 @@
+// Distância entre dois pontos
+
 #include <stdio.h>
 #include <math.h>
 

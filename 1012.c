@@ -1,4 +1,4 @@
-// Área
+// área
 
 #include <stdio.h>
 

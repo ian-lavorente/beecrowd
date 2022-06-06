@@ -1,4 +1,4 @@
-// área
+/*área*/
 
 #include <stdio.h>
 

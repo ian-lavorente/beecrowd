@@ -1,6 +1,7 @@
-/*distância entre dois pontos*/
+/*distancia entre dois pontos*/
 
 #include <stdio.h>
+#include <stdlib.h>
 #include <math.h>
 
 int main()
